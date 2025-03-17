@@ -228,7 +228,7 @@ function App() {
               <RefreshCcw  size={15} className="text-gray-500" />
               <div className='flex items-center space-x-1'><Calendar size={15} className="mr-2" />
               <span className="text-gray-500">Last 30 Days</span></div>
-              <button className="text-white px-4 py-2 rounded-md hover:bg-blue-50  border-2 border-blue-500 flex items-center bg-blue-500"> <Download size={15} className='mr-2'/> Export Data</button>
+              <button className="text-white px-4 py-2 rounded-md  border-2 border-blue-500 flex items-center bg-blue-500"> <Download size={15} className='mr-2'/> Export Data</button>
             </div>
            
           </div>
